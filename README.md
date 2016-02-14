@@ -26,6 +26,6 @@ You'll need:
 
 1. Flash your Photon with the provided firmware (`application.info`)
 2. Connect your servo to D0, VIN, and GND
-3. If you ran the client locally remember to edit it again and comment out the second `host declaration
+3. If you ran the client locally remember to edit it again and comment out the second `host` declaration
 4. Run client.py & press "enter"
 5. You should see the servo's position start changing
